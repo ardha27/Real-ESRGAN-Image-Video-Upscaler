@@ -8,7 +8,7 @@ Image and Video Upscaler with [Real ESRGAN](https://github.com/xinntao/Real-ESRG
 </a>
 
 ### Tutorial (Indonesian)
-- https://youtu.be/DfXBCfH5ut0
+- https://www.youtube.com/watch?v=Y37BxOzMysk
 
 ### Real ESRGAN
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/Real-ESRGAN-Image-Video-Upscaler/blob/main/Real_ESRGAN_Image_and_Video_Upscaler.ipynb)
